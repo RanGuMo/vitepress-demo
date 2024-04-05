@@ -34,4 +34,5 @@ export default defineConfig({
       { icon: "github", link: "https://github.com/vuejs/vitepress" },
     ],
   },
+  base: "/vitepress-demo", //部署到github的仓库名
 });
