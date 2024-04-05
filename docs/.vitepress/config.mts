@@ -19,6 +19,7 @@ export default defineConfig({
     nav:navbarConfig,
 
     sidebar: sidebarConfig,
+    
     outline: {
       level: [2, 6], //目前锚点导航只能配置h2-h6级的标题，h1标题暂时不能配置
       label: '目录'

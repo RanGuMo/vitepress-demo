@@ -15,7 +15,7 @@ hero:
   tagline: /斜杠青年/人间清醒/工具控/
   image:
         # 首页右边的图片
-        src: /avatar.webp
+        src: /2.png
         # 图片的描述
         alt: avatar
   # 按钮相关
