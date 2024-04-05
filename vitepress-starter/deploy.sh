@@ -14,8 +14,8 @@ git add -A
 git commit -m 'deploy'
 
 # RanGuMo/vitepress-demo 替换为自己的用户名和对应的仓库名
-# 意思为将main构建后的代码合并到gh-pages分支上，然后在gh-pages分支上部署~
-git push -f git@github.com:RanGuMo/vitepress-demo.git main:gh-pages
+# 意思为将构建后的代码合并到gh-pages分支上，然后在gh-pages分支上部署~(确保gh-pages分支存在)
+git push -f  https://github.com/RanGuMo/vitepress-demo.git HEAD:gh-pages
 
 
 
