@@ -13,7 +13,7 @@ pnpm docs:dev
 pnpm docs:build
 ```
 
-## 4.打包后预览（对打包的文件进行预览）
+## 4.打包后预览(对打包的文件进行预览)
 ```bash
 pnpm docs:preview
 ```
